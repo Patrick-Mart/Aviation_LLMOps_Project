@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore the generated database, but kep the raw PDFs
+data/vector_db/
