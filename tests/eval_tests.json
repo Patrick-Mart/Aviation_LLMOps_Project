@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "regulation": "1008/2008",
+        "question": "What are the main conditions for an air carrier to be granted an operating licence?",
+        "expected_articles": ["Article 4"],
+        "expected_keywords": ["principal place of business", "AOC", "financial fitness", "insurance"]
+    },
+    {
+        "id": 8,
+        "regulation": "1107/2006",
+        "question": "Can an air carrier refuse a booking based on a person's reduced mobility?",
+        "expected_articles": ["Article 3", "Article 4"],
+        "expected_keywords": ["refusal of carriage", "safety requirements", "size of the aircraft"]
+    },
+    {
+        "id": 16,
+        "regulation": "261/2004",
+        "question": "What is the compensation amount for a cancelled flight with a distance of 1,500km or less?",
+        "expected_articles": ["Article 7"],
+        "expected_keywords": ["EUR 250", "compensation", "1500 kilometres", "right to compensation"]
+    },
+    {
+        "id": 17,
+        "regulation": "261/2004",
+        "question": "Are airlines required to pay compensation if a flight is cancelled due to 'extraordinary circumstances'?",
+        "expected_articles": ["Article 5"],
+        "expected_keywords": ["extraordinary circumstances", "not obliged to pay", "all reasonable measures", "cancellation"]
+    },
+    {
+        "id": 14,
+        "regulation": "Both",
+        "question": "Compare how 1008/2008 and 1107/2006 address the concept of non-discrimination.",
+        "expected_articles": ["Article 23 (1008)", "Article 3 (1107)"],
+        "expected_keywords": ["pricing", "residence", "nationality", "disability"]
+    },
+    {
+        "id": 15,
+        "regulation": "Negative",
+        "question": "What are the rules for maritime shipping cargo between Denmark and Norway?",
+        "expected_articles": [],
+        "expected_keywords": ["not mentioned", "out of scope", "only aviation"]
+    }
+]
